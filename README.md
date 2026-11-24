@@ -10,8 +10,8 @@ My first repository
 * **Themes of Friendship:** Loyalty and courage stand at the heart of every installment.
  
 ### Top 3 Favorite Characters
-1. Hermione Granger
+1. Draco Malfoy
 2. Harry Potter
-3. Draco Malfoy
+3. Hermione Granger
  
 > Favorite Hogwarts House: **Slyntherin**
